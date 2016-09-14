@@ -52,7 +52,7 @@ public class Lector_de_Archivos
             {
                 File A1 = _Variable_.getSelectedFile ( ) ;
                 
-                Document D1 = _leer_documento_XML ( A1, true ) ;
+                Document D1 = _leer_documento_XML ( A1,true ) ;
                 
                 System.out.printf ( "Documento leido: %s...\n", A1.getPath ( ) ) ;
                 
@@ -108,6 +108,7 @@ public class Lector_de_Archivos
         
         if ( N0.getNodeType ( ) == Node.ELEMENT_NODE ) ;
         {
+           
         if ( N0.getNodeName ( ).equals ( "crossword" ) )
         {    
         Node N1 = N0.getFirstChild ( ) ;
@@ -142,7 +143,9 @@ public class Lector_de_Archivos
         }
         }
         }
-        // return Crucigrama C3 = new Crucigrama ( Double.parseDouble ( D1 ), Double.parseDouble ( C1 ), LP ) ;
+
+        
+// return Crucigrama C3 = new Crucigrama ( Double.parseDouble ( D1 ), Double.parseDouble ( C1 ), LP ) ;
     }
     
     public boolean _convertir_string_a_bool ( String L1 )
