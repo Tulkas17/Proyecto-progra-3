@@ -11,6 +11,8 @@ import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
+import java.util.Observable;
+import java.util.Observer;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JMenu;
@@ -20,7 +22,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import static javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE;
 
-public class Ventana extends JFrame{
+public class Ventana extends JFrame implements Observer{
     
     public Ventana(String titulo,control apli){
         super(titulo);
@@ -130,6 +132,11 @@ public class Ventana extends JFrame{
     
     public void init(){
         setVisible(true);
+    }
+    
+      @Override
+    public void update(Observable m, Object arg) {
+        panel.repaint();
     }
     
     private control aplicacion;
