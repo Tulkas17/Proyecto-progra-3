@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<crossword>
+  <rows>9</rows>
+  <cols>8</cols>
+	  <word>
+		<row>1</row>
+		<col>2</col>
+		<direction>H</direction>
+		<term>crop</term>
+		<definition>Yield of a planted field</definition>
+	  </word>
+	  <word>
+		<row>3</row>
+		<col>1</col>
+		<direction>H</direction>
+		<term>elm</term>
+		<definition>A kind of tree, like oak</definition>
+	  </word>
+	  <word>
+		<row>3</row>
+		<col>5</col>
+		<direction>H</direction>
+		<term>plow</term>
+		<definition>This machine digs up fields</definition>
+	  </word>
+	  <word>
+		<row>5</row>
+		<col>3</col>
+		<direction>H</direction>
+		<term>farm</term>
+		<definition>A place where animals and crops are raised</definition>
+	  </word>
+	  
+	  <word>
+		<row>6</row>
+		<col>2</col>
+		<direction>H</direction>
+		<term>sit</term>
+		<definition>Opossite of stand</definition>
+	  </word>
+
+	  <word>
+		<row>6</row>
+		<col>6</col>
+		<direction>H</direction>
+		<term>bag</term>
+		<definition>Sack to carry feed in</definition>
+	  </word>
+	  <word>
+		<row>7</row>
+		<col>1</col>
+		<direction>H</direction>
+		<term>horse</term>
+		<definition>An animal to ride on</definition>
+	  </word>
+	  <word>
+		<row>9</row>
+		<col>1</col>
+		<direction>H</direction>
+		<term>goose</term>
+		<definition>A long necked bird which honks</definition>
+	  </word>
+	  
+	  <word>
+		<row>1</row>
+		<col>2</col>
+		<direction>V</direction>
+		<term>colt</term>
+		<definition>A baby horse</definition>
+	  </word>
+	  <word>
+		<row>1</row>
+		<col>5</col>
+		<direction>V</direction>
+		<term>pup</term>
+		<definition>A baby dog</definition>
+	  </word>
+	  <word>
+		<row>1</row>
+		<col>8</col>
+		<direction>V</direction>
+		<term>cow</term>
+		<definition>An animal that gives milk</definition>
+	  </word>
+	  <word>
+		<row>3</row>
+		<col>6</col>
+		<direction>V</direction>
+		<term>lamb</term>
+		<definition>A baby sheep</definition>
+	  </word>
+	  <word>
+		<row>4</row>
+		<col>4</col>
+		<direction>V</direction>
+		<term>cats</term>
+		<definition>Animals that chase mice</definition>
+	  </word>
+	  <word>
+		<row>5</row>
+		<col>3</col>
+		<direction>V</direction>
+		<term>fir</term>
+		<definition>A kind of evergreen tree</definition>
+	  </word>
+	  <word>
+		<row>6</row>
+		<col>2</col>
+		<direction>V</direction>
+		<term>so</term>
+		<definition>A word that rhymes with go</definition>
+	  </word>
+	  <word>
+		<row>6</row>
+		<col>8</col>
+		<direction>V</direction>
+		<term>goat</term>
+		<definition>Animal with horns</definition>
+	  </word>
+	  <word>
+		<row>7</row>
+		<col>1</col>
+		<direction>V</direction>
+		<term>hog</term>
+		<definition>Another word for a pig</definition>
+	  </word>
+	  <word>
+		<row>7</row>
+		<col>5</col>
+		<direction>V</direction>
+		<term>eye</term>
+		<definition>What we see with</definition>
+	  </word>
+	  </crossword>

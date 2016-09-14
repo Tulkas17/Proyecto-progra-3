@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<crossword>
+  <rows>6</rows>
+  <cols>10</cols>
+	  <word>
+		<row>2</row>
+		<col>4</col>
+		<direction>H</direction>
+		<term>SUMAR</term>
+		<definition>Antonimo de restar</definition>
+	  </word>
+	  <word>
+		<row>4</row>
+		<col>1</col>
+		<direction>H</direction>
+		<term>MEDITAR</term>
+		<definition>Sinonimo de pensar</definition>
+	  </word>
+	  <word>
+		<row>6</row>
+		<col>4</col>
+		<direction>H</direction>
+		<term>ORDENAR</term>
+		<definition>Antonimo de desordenar</definition>
+	  </word>
+	  <word>
+		<row>1</row>
+		<col>5</col>
+		<direction>V</direction>
+		<term>QUITAR</term>
+		<definition>Antonimo de poner</definition>
+	  </word>
+	  <word>
+		<row>3</row>
+		<col>10</col>
+		<direction>V</direction>
+		<term>REIR</term>
+		<definition>Antonimo de llorar</definition>
+	  </word>
+	  </crossword>
